@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://armaragex.github.io/lestallion-dual-monitor-laptop-tray-758/sitemap.xml
